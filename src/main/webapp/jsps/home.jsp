@@ -14,7 +14,7 @@
 	Landmark Technologies is a software development company.We support millions of client in the cloud space.Welcome to my space all we do is support you. 
 	Class26 will run from October 2, 2021. I am at a point in my walk with ABBA!
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
-	<h3 align= "center">Welcome to the Dirisu family. We are in an era of all round breakthrough: Sedi, Dola, Eseli and Onose. God is the one backing us up.</h3>
+	<h3 align= "center">Welcome to the Dirisu family. We are in an era of all round breakthrough: Sedi, Dola, Eseli and Onose. God is the one backing us up. It is written that he who began his great works will not stop.</h3>
 <hr>
 <div style="text-align: center;">
 	<span>
