@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://3.234.154.247:8081/repository/gitbank-moni-Release/</url>
+	      <url> http://44.203.32.21:8081/repository/accessbank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url> http://3.234.154.247:8081/repository/gtbank-moni-Snapshot/</url>
+	      <url> http://44.203.32.21:8081/repository/accessbank-Release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
